@@ -6,7 +6,7 @@
  * Then, with the money you had left, you bought as many donuts as possible for B tk each, at a donut shop.
  * How much do you have left after all your shopping?
  */
-
+ 
 
 function calculateRemainingMoney(totalMoney, cakeCost, donutCost) {
 

@@ -5,7 +5,7 @@
  * Calculate the sum (A + B), difference (A - B), product (A * B), and quotient (A / B).
  * If at least one of these four values is exactly equal to 9, return the string "Nine". Otherwise, return "Nein".
  */
-
+ 
 
 function checkMathOperationsForNine(a: number, b: number): string {
 

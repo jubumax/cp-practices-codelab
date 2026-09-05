@@ -11,7 +11,7 @@
  * Assume the HTML is well-formed and the <body> and </body> tags will always be present. 
  * The body tags will appear on their own lines, potentially with leading whitespace for indentation, but with no other content on those lines.
  */
-
+ 
 
 /* // NOT actually correct because of 'whitespace, newline, indentation' exactly
 

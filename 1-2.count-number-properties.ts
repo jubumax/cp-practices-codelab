@@ -6,7 +6,7 @@
  * Return an object with four properties: even, odd, positive, and negative, each holding the respective count.
  * Remember that 0 is considered an even number, but it is neither positive nor negative.
  */
-
+ 
 
 interface CountResult {
   even: number;

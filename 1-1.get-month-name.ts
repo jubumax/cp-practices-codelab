@@ -3,7 +3,7 @@
  * 
  * Given an integer monthNumber between 1 and 12, return the English name of the corresponding month, with the first letter capitalized.
  */
-
+ 
 
 function getMonthName(monthNumber: number): string {
     switch (monthNumber) {
